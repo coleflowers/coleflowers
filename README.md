@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 广东快乐种子科技有限公司
-- 🌱 I’m currently learning reverse engineering
-- 📫 How to reach me: [Twitter](https://twitter.com/coleflowers3)
 
 <!--
 **coleflowers/coleflowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
